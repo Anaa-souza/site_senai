@@ -14,7 +14,7 @@ destaque.jpg → Imagem de fundo principal do banner.
 programa.jpg → Imagem ilustrativa da seção de programação.
 
 ##  🖥️ Estrutura do index.html
-🔹 Header (<header>)
+🔹 Header
 
 Exibe o logo do SENAI.
 
