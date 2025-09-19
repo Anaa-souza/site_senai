@@ -34,7 +34,7 @@ Botão flutuante do WhatsApp no canto inferior direito:
 
 Ao clicar, abre o chat do WhatsApp.
 
-🔹 Main (<main>)
+🔹 Main 
 
 Banner principal com a imagem destaque.jpg.
 
@@ -44,7 +44,7 @@ Título: “Aprendizagem Online”.
 
 Botão de acesso (“Acessar”).
 
-🔹 Section (<section>)
+🔹 Section 
 
 Título incentivando o aprendizado em programação.
 
@@ -52,7 +52,7 @@ Texto descritivo (Lorem ipsum).
 
 Imagem programa.jpg, estilizada com efeitos de hover.
 
-🔹 Footer (<footer>)
+🔹 Footer 
 
 Exibe novamente o logo do SENAI.
 
