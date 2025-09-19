@@ -1,102 +1,106 @@
-## 📘 README – Projeto SENAI
-# 📂 Estrutura do Projeto
+##  📘 Projeto SENAI – Aprendizagem Online
 
-index.html → Página principal do site.
+Este projeto é um site institucional desenvolvido em HTML e CSS, com foco em apresentar informações sobre cursos e incentivar o aprendizado de programação.
 
-style.css → Arquivo de estilos que define a aparência da página.
+##  📂 Estrutura do Projeto
+  <img width="321" height="116" alt="image" src="https://github.com/user-attachments/assets/266ad2f4-f60a-4b38-a4ae-ecf841451dbd" />
+ 
+  # Imagens utilizadas:
 
-Imagens:
+SENAI_São_Paulo_logo.png → Logo exibido no header e footer.
 
-SENAI_São_Paulo_logo.png (logo no header e no footer)
+destaque.jpg → Imagem de fundo principal do banner.
 
-destaque.jpg (imagem principal de fundo no banner)
+programa.jpg → Imagem ilustrativa da seção de programação.
 
-programa.jpg (imagem da seção de programação)
-
-## 🖥️ index.html
-
-O HTML define a estrutura do site:
-
-Header (<header>)
-
-Contém o logo SENAI.
-
-Um menu de navegação com ícones do Font Awesome:
-
-Home 🏠
-
-Cursos 📚
-
-Contato ☎️
-
-Cadastro 👤
-
-Botão flutuante do WhatsApp
-
-Fica fixo no canto inferior direito da tela.
-
-Ao clicar, abre o chat do WhatsApp.
-
-Main (<main>)
-
-Contém a imagem de fundo (destaque.jpg).
-
-Uma caixa de destaque com o título Aprendizagem Online e um botão “Acessar”.
-
-Section (<section>)
-
-Título incentivando o aprendizado de programação.
-
-Texto descritivo (Lorem ipsum).
-
-Uma imagem (programa.jpg) estilizada com efeitos de hover.
-
-Footer (<footer>)
+##  🖥️ Estrutura do index.html
+🔹 Header (<header>)
 
 Exibe o logo do SENAI.
 
-Mostra informações de contato e direitos autorais.
+Contém um menu de navegação com ícones do Font Awesome:
 
-## 🎨 style.css
+🏠 Home
 
-O CSS estiliza e organiza os elementos:
+📚 Cursos
 
-Fonte personalizada
+☎️ Contato
 
-Importa a fonte Anek Devanagari do Google Fonts.
+👤 Cadastro
 
-Header fixo
+Botão flutuante do WhatsApp no canto inferior direito:
 
-Fundo escuro, sombra e logo ajustado.
+Ícone verde circular.
 
-Links do menu em branco que ficam pretos ao passar o mouse.
+Ao clicar, abre o chat do WhatsApp.
 
-Botões
+🔹 Main (<main>)
 
-.botao e .botao2 estilizam botões em vermelho com hover escuro.
+Banner principal com a imagem destaque.jpg.
 
-Main e Banner
+Uma caixa de destaque com:
 
-Imagem de fundo com opacidade.
+Título: “Aprendizagem Online”.
 
-.caixa posicionada no canto esquerdo com fundo translúcido.
+Botão de acesso (“Acessar”).
 
-Seção de programação
+🔹 Section (<section>)
 
-Centralizada, com imagens arredondadas e sombra ao passar o mouse.
+Título incentivando o aprendizado em programação.
 
-Footer
+Texto descritivo (Lorem ipsum).
 
-Fundo escuro, logo à esquerda e texto branco à direita.
+Imagem programa.jpg, estilizada com efeitos de hover.
 
-WhatsApp flutuante (.whatsapp)
+🔹 Footer (<footer>)
+
+Exibe novamente o logo do SENAI.
+
+Informações de contato e direitos autorais.
+
+##  🎨 Estilização com style.css
+
+Fonte personalizada:
+
+Importa Anek Devanagari via Google Fonts.
+
+Header fixo:
+
+Fundo escuro com sombra.
+
+Logo ajustado e menu em branco, mudando para preto no hover.
+
+Botões (.botao e .botao2):
+
+Estilo em vermelho.
+
+Efeito hover com tom mais escuro.
+
+Main e Banner:
+
+Imagem de fundo com opacidade ajustada.
+
+Caixa de destaque com fundo translúcido e alinhamento lateral.
+
+Seção de Programação:
+
+Conteúdo centralizado.
+
+Imagem arredondada com sombra e efeito hover.
+
+Footer:
+
+Fundo escuro.
+
+Logo à esquerda, texto branco à direita.
+
+WhatsApp Flutuante (.whatsapp):
 
 Botão verde circular no canto inferior direito.
 
-Ícone centralizado com efeito hover que aumenta o tamanho.
+Ícone centralizado.
 
-
-
+Efeito hover que aumenta o tamanho.
 
 
 
